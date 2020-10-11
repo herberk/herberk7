@@ -144,7 +144,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../herberk-v5" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -171,11 +171,17 @@
       <option name="presentableId" value="Default" />
       <updated>1601751229363</updated>
       <workItem from="1601751230566" duration="638000" />
-      <workItem from="1602284662938" duration="2269000" />
+      <workItem from="1602284662938" duration="3223000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="125" key="FileChooserDialogImpl" timestamp="1602375163021">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="515" y="125" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602375163021" />
   </component>
 </project>
